@@ -1079,4 +1079,6 @@ Wire Wire Line
 	2800 4500 3050 4500
 Wire Wire Line
 	3050 4500 3050 4850
+Text Notes 4300 2600 0    39   ~ 0
+R3 and R4 should be adjusted to match the \ncurrent sensor, or left unpopulated for \nsensors with a built-in resistor.
 $EndSCHEMATC
